@@ -1,0 +1,20 @@
+bmi calculatator
+
+I have two var height and weight
+
+input height, weight --> calculate bmi --> output
+
+state : weight :
+        height:
+        bmi :
+
+
+graph
+
+start -->calbmi -->end
+
+next step 
+
+based on the bmi value, i have to tell the person is fit or not
+
+start --> calbmi --> levelbmi --> end
