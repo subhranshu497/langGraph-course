@@ -3,3 +3,5 @@ we will provide a topic to llm
 then will ask llm to generate a detailed outline 
 
 then from the detailed outline generate a blog
+
+state : 

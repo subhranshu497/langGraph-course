@@ -1,0 +1,11 @@
+cricket - 
+    runs
+    balls
+    4s
+    6s
+
+calculate - 
+    strikerate
+    boundarypercentage
+    ballsperboundary
+    
